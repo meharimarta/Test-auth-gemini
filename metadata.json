@@ -1,0 +1,6 @@
+{
+  "name": "ForgeAuth — Laravel & Vue Inertia Auth",
+  "description": "Full-stack authentication system with live session management, email verification, password reset, and an exportable Laravel 11 + Vue 3 + Inertia.js + Tailwind CSS codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
